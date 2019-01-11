@@ -5,5 +5,5 @@
 Change selenium host name in wdio.conf.js
 
 Run:
-`npm install`
+`npm install`  
 `npm run test`
